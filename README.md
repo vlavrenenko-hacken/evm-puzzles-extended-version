@@ -1,6 +1,6 @@
 # EVM puzzles
 
-A collection of EVM puzzles. Each puzzle consists on sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
+A collection of EVM puzzles. Each puzzle requires sending a successful transaction to a contract. The bytecode of the contract is provided, and you need to fill the transaction data that won't revert the execution.
 
 ## How to play
 
